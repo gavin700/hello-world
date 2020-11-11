@@ -70,21 +70,21 @@
 	
 	
 
-	<meta property="og:url" content="https://www.rabobank.com/en/home/index.html">
+	<meta property="og:url" content="https://www.rab0bank.com/en/home/index.html">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Growing a better world together">
 	
-		<meta property="og:image" content="https://www.rabobank.com/en/images/rabobank-road-to-change-1280-2.jpg">
+		<meta property="og:image" content="https://www.rab0bank.com/en/images/rabobank-road-to-change-1280-2.jpg">
 	
 	<meta property="og:description" content="Rabobank home">
 	<meta property="og:site_name" content="Rabobank.com">
 	
 	
 
-	<meta name="twitter:url" content="https://www.rabobank.com/en/home/index.html">
+	<meta name="twitter:url" content="https://www.rab0bank.com/en/home/index.html">
 	<meta name="twitter:title" content="Growing a better world together">
-	<meta name="twitter:description" content="Rabobank home">
-	<meta name="twitter:image" content="https://www.rabobank.com/en/images/rabobank-road-to-change-1280-2.jpg">
+	<meta name="twitter:description" content="Rab0ank home">
+	<meta name="twitter:image" content="https://www.rab0bank.com/en/images/rabobank-road-to-change-1280-2.jpg">
 
 	<link href="/en/images/Rabo_fav_logo.ico"  rel="shortcut icon" type="image/x-icon" />
 
@@ -199,7 +199,7 @@
 
    <li>         
 
-    <a href="http://www.rabobank.nl" target="_blank" rel="noopener">www.rabobank.nl</a>
+    <a href="http://www.rab0bankl" target="_blank" rel="noopener">www.rab0ank.nl</a>
 
 
 
